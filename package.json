@@ -5,7 +5,9 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
